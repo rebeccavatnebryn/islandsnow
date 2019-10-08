@@ -9,3 +9,19 @@
   box-shadow: none;
 }
 
+.ui.footer {
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.ui.three.column.grid.container {
+  border-top: solid 1px #ededed;
+
+  border-bottom: solid 1px #ededed;
+  padding: 50px;
+}
+
+.ui.centered.grid.container {
+  padding: 50px;
+}
